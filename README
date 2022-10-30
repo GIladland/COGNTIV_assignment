@@ -3,7 +3,7 @@ Deep Learning - Exercise 1 Implicit Neural Representations of Images
 
 cognitiv_full_solution.ipynb      <-- the colab notebook with the code
 Cognitv - research notebook.docx  <-- contain answers to the questions
-
+Models/img_representation.pt      <-- pre-trained model
 Instructions
 - You can find my answers and screenshots from the notebook on "Cognitv - research notebook.docx".
 - Run the notebook from a colab, and connect a google drive with the images from the exercise.
